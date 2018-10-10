@@ -1,5 +1,20 @@
-.column {
+.column1 {
   width: 200px;
   float:left;
   text-align:left;
+  background-color: cyan;
+}
+
+.column2 {
+  width: 200px;
+  float:left;
+  text-align:left;
+  background-color: teal;
+}
+
+.column3 {
+  width: 200px;
+  float:left;
+  text-align:left;
+  background-color: orange;
 }
